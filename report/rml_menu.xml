@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+       <report header="False" id="sale_order_report_id1" model="sale.order" name="sale.order.school1" 
+                rml="school/report/report.rml" string="Test Report" 
+                usage="default"/>
+    </data>
+   
+</openerp>
